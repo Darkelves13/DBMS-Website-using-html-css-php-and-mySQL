@@ -1,1 +1,1 @@
-# College-Website-using-html-css-php-and-mySQL
+# DBMS-Website-using-html-css-php-and-mySQL
